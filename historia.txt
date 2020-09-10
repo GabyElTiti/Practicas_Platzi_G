@@ -4,4 +4,6 @@ Gaby Estrada tiene 45 (recién cumplidos) años y nació en Argentina pero le en
 
 Probando una nueva línea para probar el soft reset y el staging
 
+Esta es una línea agregada en el Header de mi propio git para probar Merge con Pablito. 
+
 Hoy hablaremos de su historia. 
