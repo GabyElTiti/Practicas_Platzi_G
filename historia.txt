@@ -7,3 +7,5 @@ Probando una nueva línea para probar el soft reset y el staging
 Hoy hablaremos de su historia.
 
 Pablo agrega esta linea para probar a trabajar en el repositorio de Gaby
+
+probando fork en el github de gabi
